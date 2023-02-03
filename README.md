@@ -1,7 +1,7 @@
 # Note95
 ## Windows95 themed notes (web) app 
 <p>
-    live link : https://notes-app-v01.herokuapp.com/login
+    live link : https://note-app-app.onrender.com/
 </p>
 
 <ul>
